@@ -1,0 +1,6 @@
+Installation instruction
+
+1. Clone this git repository.
+2. Run maleo-build-deps.sh file to install dependencies. You also can install
+vala and libwebp from SBo (http://slackbuilds.org) repository.
+3. Run maleo-build-core.sh file to install maleo.

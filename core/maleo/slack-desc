@@ -1,0 +1,20 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+# 
+
+    |-----handy-ruler------------------------------------------------------|
+maleo: maleo (HTML5 application runner )
+maleo:
+maleo: This is a HTML5 application runner. It is built using Gtk+ Webkit
+maleo: port in Vala programming language. To use it just feed the
+maleo: application with the absolute path containing the config.xml.
+maleo: The runner is powered by Seed runtime, or you can use Node.js. 
+maleo:
+maleo: Maleo is an endangered species of bird originating from Sulawesi.
+maleo:
+maleo:
+maleo: https://github.com/BlankOn/maleo

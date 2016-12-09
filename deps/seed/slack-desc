@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+    |-----handy-ruler------------------------------------------------------|
+seed: seed (GNOME Javascript interpreter)
+seed:
+seed: Seed is a library and interpreter, dynamically bridging (through 
+seed: gobject-introspection) the WebKit JavaScriptCore engine with the 
+seed: GObject type system. In a more concrete sense, Seed enables you to 
+seed: immediately write applications around a significant portion of the 
+seed: GNOME platform,and easily embed JavaScript as a scripting language in
+seed: your GObject library.
+seed:
+seed: Website: http://live.gnome.org/Seed
+seed: SVN: git://git.gnome.org/seed
